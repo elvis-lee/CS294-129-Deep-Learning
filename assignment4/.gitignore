@@ -1,0 +1,15 @@
+.idea
+bullet3
+roboschool
+__pycache__
+data
+private
+external
+build_lab3
+build_lab4
+build_lab5
+build_prelab
+dockerfiles/_build
+.DS_Store
+cloudexec.yml
+dqn/output

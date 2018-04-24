@@ -1,0 +1,9 @@
+[submodule "Lab-Policy-Gradient-Algorithms"]
+	path = Lab-Policy-Gradient-Algorithms
+	url = git@github.com:dementrock/Lab-Policy-Gradient-Algorithms.git
+[submodule "Lab-RL-in-the-Cloud"]
+	path = Lab-RL-in-the-Cloud
+	url = git@github.com:dementrock/Lab-RL-in-the-Cloud.git
+[submodule "Pre-Bootcamp-Setup-Instructions"]
+	path = Pre-Bootcamp-Setup-Instructions
+	url = git@github.com:dementrock/Pre-Bootcamp-Setup-Instructions.git
